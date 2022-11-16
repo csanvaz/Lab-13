@@ -24,7 +24,7 @@ void reed_ekidan2() {
 
 void csanc9_jporr2() {
     printf("Cynthia Sanchez Vazquez and Julian Porro\n");
-    printf("We learned how to copy the repository using bash and replit. We learned how to push using replit.\n");
+    printf("We learned how to copy the repository using bash and replit. We learned how to push using replit.  \n");
 }
 
 int main()
