@@ -1,3 +1,4 @@
+#include <stdlib.h>
 // Collaborative code file, Lab 13
 // 
 // One person in your partner group should clone this repository.
